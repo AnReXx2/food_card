@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Noto Sans Georgian";
+  src: url("../assets/fonts/OpenSans-Regular.ttf") format("ttf") url("../assets/fonts/DMSerifDisplay-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
